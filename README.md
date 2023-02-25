@@ -27,7 +27,7 @@ I love taking on new challenges and tackling complex problems to deliver quality
 * Nginx
 
 ### What I'm Working On ⚗
-[Ortak]: https://ortak.rs - an Android app built with React native that enables users to create, send and receive electronic invoices in Serbia.
+[Ortak](https://ortak.rs "ortak.rs") - an Android app built with React native that enables users to create, send and receive electronic invoices in Serbia.
 
 ### Fun Facts 🎪
 I love riding my MTB and use Arch btw.
