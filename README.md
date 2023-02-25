@@ -6,13 +6,14 @@ I specialize in the MERN stack, but I also have great experience with React Nati
 
 I love taking on new challenges and tackling complex problems to deliver quality work.
 
-#### What I Do
-Full Stack Development
-Web Development
-Mobile Development
-Backend Development
-Database Management
-Deployment and Hosting
+### What I Do
+* Full Stack Development
+* Web Development
+* Mobile Development
+* Backend Development
+* Database Management
+* Deployment and Hosting
+
 ### Tools and Technologies
 MERN Stack (MongoDB, Express, React, Node.js)
 React Native
