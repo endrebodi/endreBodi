@@ -34,6 +34,6 @@ Check it out at https://ortak.rs
 ### Fun Facts 🎪
 I love riding my MTB and use Arch btw.
 
-### Thanks for stopping by and checking out my profile 👍
+### Thanks for stopping by and checking out my profile ❤
 
 Feel free to reach out if you have any questions or would like to collaborate on a project.
