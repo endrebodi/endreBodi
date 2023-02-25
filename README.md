@@ -6,7 +6,7 @@ I specialize in the MERN stack, but I also have great experience with React Nati
 
 I love taking on new challenges and tackling complex problems to deliver quality work.
 
-### What I Do
+#### What I Do
 Full Stack Development
 Web Development
 Mobile Development
