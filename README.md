@@ -1,6 +1,10 @@
 ### Hey there 👋
 
-I'm a full stack developer with a passion for creating innovative and efficient solutions. I specialize in the MERN stack, but I also have experience with React Native, Python, and various databases including Realm, SQLite, MongoDB, and IndexedDB. I love taking on new challenges and tackling complex problems to deliver quality work.
+I'm a full stack developer with a passion for creating innovative and efficient solutions.
+
+I specialize in the MERN stack, but I also have great experience with React Native, Python, and various databases including Realm, SQLite, MongoDB, and IndexedDB.
+
+I love taking on new challenges and tackling complex problems to deliver quality work.
 
 ### What I Do
 Full Stack Development
