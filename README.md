@@ -20,7 +20,6 @@ I love taking on new challenges and tackling complex problems to deliver quality
 * Python
 * Realm
 * SQLite
-* MongoDB
 * IndexedDB
 * Linux
 * Apache
