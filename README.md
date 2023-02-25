@@ -6,7 +6,7 @@ I specialize in the MERN stack, but I also have great experience with React Nati
 
 I love taking on new challenges and tackling complex problems to deliver quality work.
 
-### What I Do
+### What I Do 💻
 * Full Stack Development
 * Web Development
 * Mobile Development
@@ -14,7 +14,7 @@ I love taking on new challenges and tackling complex problems to deliver quality
 * Database Management
 * Deployment and Hosting
 
-### Tools and Technologies
+### Tools and Technologies 🛠
 * MERN Stack (MongoDB, Express, React, Node.js)
 * React Native
 * Python
@@ -26,13 +26,14 @@ I love taking on new challenges and tackling complex problems to deliver quality
 * Apache
 * Nginx
 
-### What I'm Working On
+### What I'm Working On ⚗
 Ortak - an Android app built with React native that enables users to create, send and receive electronic invoices in Serbia.
 
 Check it out at https://ortak.rs
 
-### Fun Facts
+### Fun Facts 🎪
 I love riding my MTB and use Arch btw.
+
 
 Thanks for stopping by and checking out my profile!
 
