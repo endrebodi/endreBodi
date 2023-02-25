@@ -15,18 +15,19 @@ I love taking on new challenges and tackling complex problems to deliver quality
 * Deployment and Hosting
 
 ### Tools and Technologies
-MERN Stack (MongoDB, Express, React, Node.js)
-React Native
-Python
-Realm
-SQLite
-MongoDB
-IndexedDB
-Linux
-Apache
-Nginx
+* MERN Stack (MongoDB, Express, React, Node.js)
+* React Native
+* Python
+* Realm
+* SQLite
+* MongoDB
+* IndexedDB
+* Linux
+* Apache
+* Nginx
+
 ### What I'm Working On
-Currently, I'm working on a web app using the MERN stack for a client in the healthcare industry. I'm also contributing to several open-source projects on GitHub to expand my skills and give back to the community.
+Ortak - an Android app built with React native that enables users to create, send and receive electronic invoices in Serbia. Check it out at https://ortak.rs
 
 ### Fun Facts
 I'm an avid Linux user and my go-to distribution is Arch Linux.
