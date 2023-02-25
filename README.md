@@ -27,9 +27,13 @@ I love taking on new challenges and tackling complex problems to deliver quality
 * Nginx
 
 ### What I'm Working On
-Ortak - an Android app built with React native that enables users to create, send and receive electronic invoices in Serbia. Check it out at https://ortak.rs
+Ortak - an Android app built with React native that enables users to create, send and receive electronic invoices in Serbia.
+
+Check it out at https://ortak.rs
 
 ### Fun Facts
-I'm an avid Linux user and my go-to distribution is Arch Linux.
-I enjoy playing guitar in my free time and have been in a few bands over the years.
-Thanks for stopping by and checking out my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
+I love riding my MTB and use Arch btw.
+
+Thanks for stopping by and checking out my profile!
+
+Feel free to reach out if you have any questions or would like to collaborate on a project.
